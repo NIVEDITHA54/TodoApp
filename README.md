@@ -3,8 +3,7 @@ Spring Boot Todo App
 
 About
 
-This is a demo project for practicing Spring Boot + Bootstrap. It was made using Spring Boot, Bootstrap and Spring Data JPA. Database is in memory H2.
-There is a login and registration functionality included.An authenticated user can add,delete and update todos.Non-authenticated users can see login and registration page.
+This is a demo project for practicing Spring Boot + Bootstrap built using Spring Boot, Bootstrap, Spring Data JPA,H2 database. The app provides login and registration functionality, where in, an authenticated user can perform CRUD operations on Todo object. Non-authenticated users can only access login and registration page.
 
 Configuration Files
 
